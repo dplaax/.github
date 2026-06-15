@@ -9,8 +9,8 @@ _Regulation carves what **MUST** be — then the market asks technology for the 
 **But no matter how many points you stack, you never draw the line.**
 **Continuous provenance — proving the line, not the points. That is the next CAN.**
 
-A protocol for continuous, independently verifiable data provenance —
-boundary by boundary, across organizations.
+A protocol for continuous, federated data provenance —
+independently verifiable, boundary by boundary, across organizations.
 
 </div>
 
