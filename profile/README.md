@@ -22,7 +22,7 @@ boundary by boundary, across organizations.
 Whenever data crosses the boundary of an organization or a system, dPLaaX records — in a
 tamper-evident form — _who received what, what was done to it, and what was passed on_ — and
 links each record to the one before it. The result is not a scattered set of audit points but a
-single **line** that any third party can verify independently, with no shared anchor of trust.
+single **line** that any third party can verify independently, without a central trust authority.
 
 A fabricated point is cheap, and generative technology keeps making it cheaper. A fabricated
 **line** is not: it would demand the keys of every boundary it crossed and consistency with
