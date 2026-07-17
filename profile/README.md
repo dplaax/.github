@@ -33,7 +33,7 @@ genuine?"_ to _"can the line be verified?"_
 
 - ✅ **Authenticity and continuity** of the record: each link is signed, and the chain is unbroken and checkable.
 - ❌ **Not** the truth of the contents. If a source records a wrong value, that value stays wrong even when the line is complete.
-- It **complements** existing standards — W3C Verifiable Credentials, and efforts such as OASIS DPS and IETF SCITT — by carrying the layer they leave out of scope: continuity from the boundary of reception through to output. **Not a competitor.**
+- It does **not replace** domain-specific standards. It adds a common protocol for the layer they leave out of scope: keeping provenance connected across process boundaries.
 
 ## Implementations
 
