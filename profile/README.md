@@ -88,6 +88,6 @@ then the rule catalog for the letter.
 **v0.1 draft — public, under review, exercised by a running implementation.**
 
 - [dPLaaX spec](https://github.com/dplaax/spec) v0.1 draft — all rules in `draft` state, evolving on implementation feedback; public review welcome
-- [provin oss v0.3.0](https://github.com/provin-line/oss) — the revision line evaluated in Paper 04
-- Position paper #4 — acceptance decisions at delivery time, evaluated on
+- [provin oss v0.3.0](https://github.com/provin-line/oss) — the revision line evaluated in the systems paper
+- Systems paper — acceptance decisions at delivery time, evaluated on
   public snapshots _(forthcoming)_
