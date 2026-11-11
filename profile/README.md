@@ -85,9 +85,10 @@ then the rule catalog for the letter.
 
 ## Status
 
-**v0.1 draft — public, under review, exercised by a running implementation.**
+**v0.2.0-alpha.1 (pre-release) — public, under review, exercised by a running implementation.**
 
-- [dPLaaX spec](https://github.com/dplaax/spec) v0.1 draft — all rules in `draft` state, evolving on implementation feedback; public review welcome
+- [dPLaaX spec](https://github.com/dplaax/spec) v0.2.0-alpha.1 (pre-release) — all rules in `draft` state, evolving on implementation feedback; public review welcome
+- [provin oss v0.4.0](https://github.com/provin-line/oss/releases/tag/v0.4.0) — the current release
 - [provin oss v0.3.0](https://github.com/provin-line/oss) — the revision line evaluated in the systems paper
-- Systems paper — acceptance decisions at delivery time, evaluated on
-  public snapshots _(forthcoming)_
+- [Systems paper](https://doi.org/10.5281/zenodo.21853326) — acceptance decisions at delivery time, evaluated on
+  public snapshots _(preprint)_
